@@ -1,6 +1,4 @@
 Crsis MMD : Here I have trained my model on Crisis MMD pictures to determine that whether the images taken from social media sites during disasters are informative or not. This trained 
-
-
 model have been used on BlueSky images to determine whether the images are informative or not.
  
 
